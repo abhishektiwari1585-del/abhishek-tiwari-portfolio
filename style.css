@@ -1566,9 +1566,6 @@ background: #0b1020;
   .nav-links {
     display: none;
 
-.nav-cta {
-    display: flex;
-    gap: 8px;
 }
   .hamburger { display: flex; }
   .nav-links.open {
